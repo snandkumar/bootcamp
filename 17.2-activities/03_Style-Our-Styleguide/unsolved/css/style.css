@@ -28,6 +28,9 @@
    border-bottom-left-radius: 7px;
    border-bottom-right-radius: 7px;
 }
+.darkBlue {
+   background-color: 333366;
+}
 /* Typography CSS */
 .type_container {
    display: inline-block;
@@ -43,4 +46,10 @@
    text-align: center;
    color: white;
    outline: 1px solid red;
+}
+.primary{
+   background-color: #2B459A;
+}
+.success{
+   background-color: #8ABE48;
 }
